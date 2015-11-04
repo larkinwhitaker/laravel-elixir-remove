@@ -1,0 +1,17 @@
+{
+  "name": "elixir-remove",
+  "version": "1.0.0",
+  "description": "Laravel Elixir 3 task to delete folders and files",
+  "main": "index.js",
+  "author": {
+    "name": "Larkin Whitaker"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larkinwhitaker/laravel-elixir-remove.git"
+  },
+  "dependencies": {
+    "gulp": "^3.8.8",
+    "laravel-elixir": "^3.0.0"
+  }
+}
